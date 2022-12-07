@@ -1,0 +1,19 @@
+{
+  "name": "chat-app-with-nodejs",
+  "version": "1.0.0",
+  "description": "it is a chatting app that i'm developing with nodejs for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomonadola/chat-app-with-nodejs.git"
+  },
+  "author": "Solomon Adola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solomonadola/chat-app-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/solomonadola/chat-app-with-nodejs#readme"
+}
