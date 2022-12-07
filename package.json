@@ -1,7 +1,7 @@
 {
   "name": "chat-app-with-nodejs",
   "version": "1.0.0",
-  "description": "it is a chatting app that i'm developing with nodejs for fun",
+  "description": "it is a chatting app that i'm developing with MERN stack for fun",
   "main": "index.js",
   "scripts": {
     "test": "jest"
